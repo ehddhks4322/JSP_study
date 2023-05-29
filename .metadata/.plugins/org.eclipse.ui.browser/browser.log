@@ -1,0 +1,95 @@
+
+4월 12, 2023 21:16:29.76 NEW SESSION
+4월 12, 2023 21:16:29.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2023 21:16:48.43 [7848:1820:0412/211648.439:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 12, 2023 21:16:48.43 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 12, 2023 21:16:48.44 ERROR: Failed parsing Certificate
+4월 12, 2023 21:16:48.44 
+4월 12, 2023 21:16:48.90 [7848:12984:0412/211648.902:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 12, 2023 21:16:48.90 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 12, 2023 21:16:48.90 ERROR: Failed parsing Certificate
+4월 12, 2023 21:16:48.90 
+
+4월 18, 2023 21:19:39.98 NEW SESSION
+4월 18, 2023 21:19:39.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 18, 2023 21:19:57.98 [2404:11748:0418/211957.987:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 18, 2023 21:19:57.98 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 18, 2023 21:19:57.98 ERROR: Failed parsing Certificate
+4월 18, 2023 21:19:57.98 
+4월 18, 2023 21:19:58.48 [2404:3524:0418/211958.481:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 18, 2023 21:19:58.48 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 18, 2023 21:19:58.48 ERROR: Failed parsing Certificate
+4월 18, 2023 21:19:58.48 
+4월 18, 2023 21:33:57.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 18, 2023 21:34:15.50 [14728:17800:0418/213415.508:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 18, 2023 21:34:15.50 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 18, 2023 21:34:15.50 ERROR: Failed parsing Certificate
+4월 18, 2023 21:34:15.50 
+4월 18, 2023 21:34:16.01 [14728:17800:0418/213416.010:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 18, 2023 21:34:16.01 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 18, 2023 21:34:16.01 ERROR: Failed parsing Certificate
+4월 18, 2023 21:34:16.01 
+
+4월 22, 2023 15:08:04.53 NEW SESSION
+4월 22, 2023 15:08:04.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 22, 2023 15:08:22.71 [11352:3432:0422/150822.719:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 22, 2023 15:08:22.72 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 22, 2023 15:08:22.72 ERROR: Failed parsing Certificate
+4월 22, 2023 15:08:22.72 
+4월 22, 2023 15:08:23.27 [11352:3432:0422/150823.270:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 22, 2023 15:08:23.27 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 22, 2023 15:08:23.27 ERROR: Failed parsing Certificate
+4월 22, 2023 15:08:23.27 
+4월 22, 2023 15:49:13.64 [11352:3432:0422/154913.645:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 22, 2023 15:49:13.64 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 22, 2023 15:49:13.64 ERROR: Failed parsing Certificate
+4월 22, 2023 15:49:13.64 
+4월 22, 2023 15:49:24.08 [11352:3432:0422/154924.081:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 22, 2023 15:49:24.08 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 22, 2023 15:49:24.08 ERROR: Failed parsing Certificate
+4월 22, 2023 15:49:24.08 
+
+4월 28, 2023 20:04:36.61 NEW SESSION
+4월 28, 2023 20:04:36.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 28, 2023 20:04:54.52 [4860:15240:0428/200454.529:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 28, 2023 20:04:54.52 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 28, 2023 20:04:54.52 ERROR: Failed parsing Certificate
+4월 28, 2023 20:04:54.52 
+4월 28, 2023 20:04:55.00 [4860:19496:0428/200455.003:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+4월 28, 2023 20:04:55.00 ERROR: Couldn't read tbsCertificate as SEQUENCE
+4월 28, 2023 20:04:55.00 ERROR: Failed parsing Certificate
+4월 28, 2023 20:04:55.00 
+
+5월 05, 2023 14:05:56.44 NEW SESSION
+5월 05, 2023 14:05:56.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 05, 2023 14:06:14.40 [20912:12712:0505/140614.402:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 14:06:14.40 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 14:06:14.40 ERROR: Failed parsing Certificate
+5월 05, 2023 14:06:14.40 
+5월 05, 2023 14:06:14.91 [20912:9848:0505/140614.911:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 14:06:14.91 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 14:06:14.91 ERROR: Failed parsing Certificate
+5월 05, 2023 14:06:14.91 
+5월 05, 2023 14:07:58.40 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+5월 05, 2023 14:42:17.55 NEW SESSION
+5월 05, 2023 14:42:17.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 05, 2023 14:42:35.55 [8280:15280:0505/144235.554:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 14:42:35.55 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 14:42:35.55 ERROR: Failed parsing Certificate
+5월 05, 2023 14:42:35.55 
+5월 05, 2023 14:42:36.05 [8280:13324:0505/144236.052:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 14:42:36.05 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 14:42:36.05 ERROR: Failed parsing Certificate
+5월 05, 2023 14:42:36.05 
+
+5월 05, 2023 15:13:10.61 NEW SESSION
+5월 05, 2023 15:13:10.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 05, 2023 15:13:28.56 [5312:16236:0505/151328.568:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 15:13:28.56 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 15:13:28.56 ERROR: Failed parsing Certificate
+5월 05, 2023 15:13:28.56 
+5월 05, 2023 15:13:29.05 [5312:6328:0505/151329.059:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+5월 05, 2023 15:13:29.05 ERROR: Couldn't read tbsCertificate as SEQUENCE
+5월 05, 2023 15:13:29.05 ERROR: Failed parsing Certificate
+5월 05, 2023 15:13:29.05 
